@@ -1,0 +1,11 @@
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\bin\Debug\netcoreapp2.1\TestMe(1).deps.json
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\bin\Debug\netcoreapp2.1\TestMe(1).runtimeconfig.json
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\bin\Debug\netcoreapp2.1\TestMe(1).runtimeconfig.dev.json
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\bin\Debug\netcoreapp2.1\TestMe(1).dll
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\bin\Debug\netcoreapp2.1\TestMe(1).pdb
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\obj\Debug\netcoreapp2.1\TestMe(1).csprojAssemblyReference.cache
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\obj\Debug\netcoreapp2.1\TestMe(1).csproj.CoreCompileInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\obj\Debug\netcoreapp2.1\TestMe(1).AssemblyInfoInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\obj\Debug\netcoreapp2.1\TestMe(1).AssemblyInfo.cs
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\obj\Debug\netcoreapp2.1\TestMe(1).dll
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp5\obj\Debug\netcoreapp2.1\TestMe(1).pdb

@@ -1,0 +1,11 @@
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\bin\Debug\netcoreapp2.1\Diary(4).deps.json
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\bin\Debug\netcoreapp2.1\Diary(4).runtimeconfig.json
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\bin\Debug\netcoreapp2.1\Diary(4).runtimeconfig.dev.json
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\bin\Debug\netcoreapp2.1\Diary(4).dll
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\bin\Debug\netcoreapp2.1\Diary(4).pdb
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\obj\Debug\netcoreapp2.1\Diary(4).csprojAssemblyReference.cache
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\obj\Debug\netcoreapp2.1\Diary(4).csproj.CoreCompileInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\obj\Debug\netcoreapp2.1\Diary(4).AssemblyInfoInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\obj\Debug\netcoreapp2.1\Diary(4).AssemblyInfo.cs
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\obj\Debug\netcoreapp2.1\Diary(4).dll
+C:\Users\lyap-\source\repos\ItvdnTests\ConsoleApp6\obj\Debug\netcoreapp2.1\Diary(4).pdb

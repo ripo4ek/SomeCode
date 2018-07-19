@@ -1,0 +1,7 @@
+C:\Users\lyap-\Desktop\Code\Code\Code\obj\Debug\Lesson1.csprojAssemblyReference.cache
+C:\Users\lyap-\Desktop\Code\Code\Code\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\lyap-\Desktop\Code\Code\Code\bin\Debug\Code.exe.config
+C:\Users\lyap-\Desktop\Code\Code\Code\bin\Debug\Code.exe
+C:\Users\lyap-\Desktop\Code\Code\Code\bin\Debug\Code.pdb
+C:\Users\lyap-\Desktop\Code\Code\Code\obj\Debug\Code.exe
+C:\Users\lyap-\Desktop\Code\Code\Code\obj\Debug\Code.pdb
