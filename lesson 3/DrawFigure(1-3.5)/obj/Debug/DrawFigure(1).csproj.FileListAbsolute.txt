@@ -1,0 +1,14 @@
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\bin\Debug\DrawFigure(1).exe.config
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\bin\Debug\DrawFigure(1).exe
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\bin\Debug\DrawFigure(1).pdb
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\obj\Debug\DrawFigure(1).csprojAssemblyReference.cache
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\obj\Debug\DrawFigure(1).csproj.CoreCompileInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\obj\Debug\DrawFigure(1).exe
+C:\Users\lyap-\source\repos\ItvdnTests\DrawFigure(1)\obj\Debug\DrawFigure(1).pdb
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\bin\Debug\DrawFigure(1).exe.config
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\bin\Debug\DrawFigure(1).exe
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\bin\Debug\DrawFigure(1).pdb
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\obj\Debug\DrawFigure(1).csprojAssemblyReference.cache
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\obj\Debug\DrawFigure(1).csproj.CoreCompileInputs.cache
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\obj\Debug\DrawFigure(1).exe
+C:\Users\lyap-\Desktop\forgit\lesson 3\DrawFigure(1-3.5)\obj\Debug\DrawFigure(1).pdb

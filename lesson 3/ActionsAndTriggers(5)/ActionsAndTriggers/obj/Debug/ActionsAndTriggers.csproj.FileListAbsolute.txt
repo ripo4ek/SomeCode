@@ -1,0 +1,14 @@
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\bin\Debug\ActionsAndTriggers.exe.config
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\bin\Debug\ActionsAndTriggers.exe
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\bin\Debug\ActionsAndTriggers.pdb
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.csprojAssemblyReference.cache
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.csproj.CoreCompileInputs.cache
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.exe
+c:\users\lyap-\source\repos\ActionsAndTriggers\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.pdb
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\bin\Debug\ActionsAndTriggers.exe.config
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\bin\Debug\ActionsAndTriggers.exe
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\bin\Debug\ActionsAndTriggers.pdb
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.csprojAssemblyReference.cache
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.csproj.CoreCompileInputs.cache
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.exe
+C:\Users\lyap-\Desktop\forgit\lesson 3\ActionsAndTriggers(5)\ActionsAndTriggers\obj\Debug\ActionsAndTriggers.pdb
