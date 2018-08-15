@@ -1,0 +1,11 @@
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\bin\Debug\netcoreapp2.1\Stack(1).deps.json
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\bin\Debug\netcoreapp2.1\Stack(1).runtimeconfig.json
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\bin\Debug\netcoreapp2.1\Stack(1).runtimeconfig.dev.json
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\bin\Debug\netcoreapp2.1\Stack(1).dll
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\bin\Debug\netcoreapp2.1\Stack(1).pdb
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\obj\Debug\netcoreapp2.1\Stack(1).csprojAssemblyReference.cache
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\obj\Debug\netcoreapp2.1\Stack(1).csproj.CoreCompileInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\obj\Debug\netcoreapp2.1\Stack(1).AssemblyInfoInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\obj\Debug\netcoreapp2.1\Stack(1).AssemblyInfo.cs
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\obj\Debug\netcoreapp2.1\Stack(1).dll
+C:\Users\lyap-\source\repos\ItvdnTests\Stack(1)\obj\Debug\netcoreapp2.1\Stack(1).pdb

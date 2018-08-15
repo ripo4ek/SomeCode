@@ -1,0 +1,10 @@
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\bin\Debug\netcoreapp2.1\WebParser(3).deps.json
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\bin\Debug\netcoreapp2.1\WebParser(3).runtimeconfig.json
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\bin\Debug\netcoreapp2.1\WebParser(3).runtimeconfig.dev.json
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\bin\Debug\netcoreapp2.1\WebParser(3).dll
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\bin\Debug\netcoreapp2.1\WebParser(3).pdb
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\obj\Debug\netcoreapp2.1\WebParser(3).csproj.CoreCompileInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\obj\Debug\netcoreapp2.1\WebParser(3).AssemblyInfoInputs.cache
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\obj\Debug\netcoreapp2.1\WebParser(3).AssemblyInfo.cs
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\obj\Debug\netcoreapp2.1\WebParser(3).dll
+C:\Users\lyap-\source\repos\ItvdnTests\WebParser(3)\obj\Debug\netcoreapp2.1\WebParser(3).pdb
